@@ -1,1 +1,1 @@
-<img src="./logo_big.png" width="264p" height="36px" draggable="false">
+<img src="profile/logo_big.png" width="264p" height="36px">
